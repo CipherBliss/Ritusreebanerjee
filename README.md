@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ritusree Banerjee</h1>
 <h3 align="center">A passionate frontend developer and also enthusiast in cyber security from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritusreebanerjee&label=Profile%20views&color=0e75b6&style=flat" alt="ritusreebanerjee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cipherbliss&label=Profile%20views&color=0e75b6&style=flat" alt="cipherbliss" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritusreebanerjee" alt="ritusreebanerjee" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cipherbliss" alt="cipherbliss" /></a> </p>
 
 - 💬 Ask me about **web dev**
 
@@ -24,8 +24,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/Ko-fi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritusreebanerjee&show_icons=true&locale=en&layout=compact" alt="ritusreebanerjee" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cipherbliss&show_icons=true&locale=en&layout=compact" alt="cipherbliss" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritusreebanerjee&show_icons=true&locale=en" alt="ritusreebanerjee" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cipherbliss&show_icons=true&locale=en" alt="cipherbliss" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritusreebanerjee&" alt="ritusreebanerjee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cipherbliss&" alt="cipherbliss" /></p>
